@@ -1,2 +1,2 @@
-# ELS
-English as a Second Language
+# ELS(focus on grammer and sentences structure)
+
