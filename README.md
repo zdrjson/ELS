@@ -1,27 +1,42 @@
-# ELS(focus on grammer and sentences structure)
+# ESL(focus on grammar and sentences’ structure)
 
-## Apple has been a very different company from the start.Their approaches to user interfaces and design aesthetics have always been innovative and revered by both users and critics alike.There is a level of polish in Apple’s products not found in most of its competitor’s devices.Their philosophy is not to sell you all the latest and greatest functions and components, but rather a comprehensive and cohesive package that is beautiful to look at and intuitive to use
+Listening
+-          Regular audio input: you might not have enough audio input. You need a lot of audio input to master a foreign language so you should listen a lot. In addition to our sessions, watching English TV and movies which you’re interested in would be a good way to help with your learning. For example, it can be very helpful to watch movies with subtitles. Subtitles can help you to understand the meaning of words from the context, and you will pick up some useful vocabularies, idioms or expressions much faster. You can try watching sit-coms (e.g. “Friends”), one episode each time. First, watch with only English subtitles and try to figure out what the characters are saying. Then, watch it again with both English and Chinese subtitles to check if you understand them correctly. If you practice doing so more often, you’ll find your English comprehension is getting better and better.
+ 
 
-San Francisco, the city of the uncommon, the unforeseen and the unexpected.People talking selfies at the Golden Gate Bridge, skaters traing hard in front of the Ferry Building, business meetings happening at every corner.It’s home to the hippie movement,the most open-minded place in the United States.Here,you will find people from almost every counry on Earth!Palo Alto, the heart of Silicon Valley is just few miles south of San Francisco.This is the place where pirates challenge all business rules. It’s the perfect habitat for big ideas aimed at chaning the world.Here,everything you need could be just one talk away.If you think it’s all about capital and investor, you might be wrong.We want to bring you behind the scenes, show you what really happens in Silicon Valley’s backstage and give you the insider perspective on how it feels to stars a company here.Welcome to Silicon Valley
+Reading
+-          In order to pronounce the words correctly you might preview the lesson materials before the session. Whenever you see a word and you have doubts about how to pronounce it, check it in the online dictionary: these are some links you might use:
+1) https://en.oxforddictionaries.com/
+2) http://cn.linguee.com/?from=com
+3) https://www.merriam-webster.com/
+-          Listening to audiobooks helps to understand how people read and with what pace. You can learn from the voice actors. There are many wonderful audiobooks for kids you can find on the Internet.
+-          Reading aloud every day would enhance your pronunciation, fluency and grammar. You might read newspaper articles, short stories or novels. Four language aspects are well enhanced as you read aloud: speaking, listening, articulation, and reading.
 
-The sentences that teachers have corrected.
-Tourist need to follow up on the regulations when they travel in the US.
-The company has carried out the new policy so everyone’s salary has increased.
-It’s definitely dreadful that team leaves the whole problem to you
-What time did you knock off work yesterday
-Would you like to take on my responsibility when I go on a vacation?
+Speaking
+-          Pay attention to your speed
+-          Try to use simpler words to express yourself. When you feel more confident in English, it would be easier for you to use more complex language.
+-          Reading aloud trains your articulatory and muscle memory. So if you once read something it will be easier to invoke it from your memory and speak out. You will find it extremely inspiring how easier it gets to speak if you have a daily practice of reading aloud (reading aloud means uttering the words as you read them and you hear yourself).
+ 
 
-Look! There is an attracitve girl! I wish I could muster up the courage to aks for her phone number.
-We had a blast!I enjoyed it very much
-Hey,Brian! Could you but me some slack?I’ve been working all day!
-Oh, my gosh! We did have so much fun before,but she still dated another guy,Was she underwhelmeed by my love?
-[underwhelmed: feeling no excitement about or admiration  for something or someone]
-Does every American who has a car have auto insurance?
-It was my pleasure to go to the cinema with you the day before yesterday
+Vocabulary
+-          Try to make sentences with words in the materials.
+-          Learn a word a day Using a word-a-day calendar or Website -- or developing your own list of words to learn -- is a great technique many people use to learn new words.
+-          You can read more to increase your vocabulary. Read novels, stories, newspapers aloud. You might also choose those that have more conversations inside. This way you would pick up the way people speak. And once practiced, if you choose to have this practice of reading aloud every day – you will find it easier to speak properly. Here is a great news website where all the news have a script divided into three levels (1 is easy, 2 is harder and 3 – the original) and a video.
+https://www.newsinlevels.com/
+-          In order to be able to talk about a wider range of topics choose the books, articles on different topics. Practice reading daily.
+ 
 
-Do you know where to find the oldest cathedral in the USA?
-I like the fountain which is the main decoration at the square.
-In New York, there is an amazing status called "Statue of Liberty"
-The area is full of interesting palaces.
-Shanghai is a cosmopolitan,right?
-I don't like the tourism in China, even though it has become in recent years.
+Review and test yourself
+-          After each session, you should ask yourself “what have I learned?” and “can I say it out loud?” Don’t just read the materials through like most of English learners in Asia. Many of the learners ignore the fact that the importance of the essence of learning a foreign language is to be able to communicate with others, not just reading or taking exams. So always ask yourself if you can recall the things you learn from sessions and make yourself use the new expressions and new words.
+-          Record yourself with your smartphone or other devices: After you review the lessons and begin to test yourself, you can record yourself with your smart phone. Play back to hear what you sound like and you will find it very surprising! We will find so much to work on when we listen to ourselves talking, such as intonation, pronunciation, sentence structure, and so on.
+
+-          After the sessions, you could take advantage of the recordings to review the lessons. Listen to the consultant’s lecture and review the material. You can press pause when you hear a question. Then you try to answer again, and then you listen to the recording to check if the consultant corrects you.
+
+Grammar:
+-          Next time, when you express ideas in class, you can ask the consultant to help you with your grammar or sentence structures. You can say “Did I say that right?” or “Can you please help me with my grammar?” After they correct your sentences for you, please take notes of them and review the correct ones so that you can avoid making the same mistakes later on. Besides, you can ask your consultants to type down what they say or what you answer on the white board so that you can easily check what your own mistakes are and review them after class.
+-          Reading every day improves your grammar significantly.
+-          You can write short passages about your life, ideas. Maybe you can try to write a short story even. This way you will see clearer in what parts of grammar you have problems.
+-          Find those grammar points in a textbook on grammar. One that we find very useful is “English Grammar in Use” by Raymond Murphy.
+
+ 
+Hopefully this list of useful advice would help you. Try it out and tell us your opinion afterwards. We would be glad to discuss it in more detail
