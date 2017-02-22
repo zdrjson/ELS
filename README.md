@@ -29,7 +29,6 @@ https://www.newsinlevels.com/
 Review and test yourself
 -          After each session, you should ask yourself “what have I learned?” and “can I say it out loud?” Don’t just read the materials through like most of English learners in Asia. Many of the learners ignore the fact that the importance of the essence of learning a foreign language is to be able to communicate with others, not just reading or taking exams. So always ask yourself if you can recall the things you learn from sessions and make yourself use the new expressions and new words.
 -          Record yourself with your smartphone or other devices: After you review the lessons and begin to test yourself, you can record yourself with your smart phone. Play back to hear what you sound like and you will find it very surprising! We will find so much to work on when we listen to ourselves talking, such as intonation, pronunciation, sentence structure, and so on.
-
 -          After the sessions, you could take advantage of the recordings to review the lessons. Listen to the consultant’s lecture and review the material. You can press pause when you hear a question. Then you try to answer again, and then you listen to the recording to check if the consultant corrects you.
 
 Grammar:
