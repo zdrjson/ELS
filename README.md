@@ -4,7 +4,7 @@ Listening
 -          Regular audio input: you might not have enough audio input. You need a lot of audio input to master a foreign language so you should listen a lot. In addition to our sessions, watching English TV and movies which you’re interested in would be a good way to help with your learning. For example, it can be very helpful to watch movies with subtitles. Subtitles can help you to understand the meaning of words from the context, and you will pick up some useful vocabularies, idioms or expressions much faster. You can try watching sit-coms (e.g. “Friends”), one episode each time. First, watch with only English subtitles and try to figure out what the characters are saying. Then, watch it again with both English and Chinese subtitles to check if you understand them correctly. If you practice doing so more often, you’ll find your English comprehension is getting better and better.
  
 
-Reading
+Reading(Read 1 article in English every day, do it now)
 -          In order to pronounce the words correctly you might preview the lesson materials before the session. Whenever you see a word and you have doubts about how to pronounce it, check it in the online dictionary: these are some links you might use:
 1) https://en.oxforddictionaries.com/
 2) http://cn.linguee.com/?from=com
@@ -39,3 +39,4 @@ Grammar:
 
  
 Hopefully this list of useful advice would help you. Try it out and tell us your opinion afterwards. We would be glad to discuss it in more detail
+
